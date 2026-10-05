@@ -16,3 +16,4 @@ Console.WriteLine($"|◆ Złoto: {złoto}\t\t\t|");
 Console.WriteLine($"|⚔ Exp: {exp}\t\t\t|");
 Console.WriteLine($"|Wymagany exp: {100 - exp}\t\t|");
 Console.WriteLine("+===============================+");
+//działa
